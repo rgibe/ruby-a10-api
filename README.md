@@ -5,7 +5,7 @@ A10 provides an aXAPI (REST) interface to configure and monitor the ACOS device.
 Following the below reported documentation:
 https://nettools.net.berkeley.edu/tools/docs/a10/thunder/ACOS_4_1_0/html/axapiv3/start_here.html
 
-I implement a small ruby library/tool in order **to manage some operations on a Server Load Balancer**.
+I implement a small ruby library/tool in order **to manage some "Operations" on a Server Load Balancer**.
 
 To actually do the job I also use the json configuration files in the "*config folder*".
 
