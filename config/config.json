@@ -1,0 +1,9 @@
+{
+	"mgmt-ip":"10.0.1.1",
+	"mgmt-user":"admin",
+	"mgmt-password":"changeme",
+	"api-auth":"/axapi/v3/auth",
+	"api-part":"/axapi/v3/active-partition",
+	"api-vs":"/axapi/v3/slb/virtual-server",
+	"api-logoff":"/axapi/v3/logoff"
+}

@@ -1,0 +1,8 @@
+{
+  "virtual-server-list": [
+    {
+      "name":"vip-test-01",
+      "ip-address":"10.0.10.1"
+    }
+  ]
+}

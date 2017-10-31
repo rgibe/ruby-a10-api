@@ -1,0 +1,15 @@
+{
+  "port-list": [
+        {
+          "port-number":80,
+          "protocol":"http",
+	  "service-group":"mysg-01"
+        },
+        {
+          "port-number":443,
+          "protocol":"https",
+	  "service-group":"mysg-01",
+          "template-client-ssl":"ssl-template-01"
+        }
+  ]
+}
