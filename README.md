@@ -17,7 +17,7 @@ https://nettools.net.berkeley.edu/tools/docs/a10/thunder/ACOS_4_1_0/html/axapiv3
 
 For help just run the scripts:
 
-- getVS.rb
+- readVS.rb
 - createVS.rb
 
 
@@ -25,8 +25,11 @@ For help just run the scripts:
 
 https://nettools.net.berkeley.edu/tools/docs/a10/thunder/ACOS_4_1_0/html/axapiv3/slb_virtual_server_port.html
 
-For help just run the scripts:
+Scripts for CRUD Operations: 
 
 - createVS_port.rb
+- readVS_port.rb
+- updateVS_port.rb
 - deleteVS_port.rb
-- modifyVS_port.rb
+
+For help just run the scripts.
